@@ -1,0 +1,1 @@
+A Habit Burger account generator using Puppeteer to make 365 accounts with a birthday on every day of the year for a free Charburger every day.
